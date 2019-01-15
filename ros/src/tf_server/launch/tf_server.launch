@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<launch>
+  <node name="tf_server" pkg="tf_server" type="tf_server_E.py" output="screen">
+    <rosparam command="load" file="$(find tf_server)/launch/tf_server.yaml"/>
+  </node>
+
+
+</launch>

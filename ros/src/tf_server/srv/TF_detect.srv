@@ -1,0 +1,3 @@
+sensor_msgs/Image  image_input
+---
+int8 res

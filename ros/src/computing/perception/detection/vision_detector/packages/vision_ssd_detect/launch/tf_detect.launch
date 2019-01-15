@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<launch>
+  <node name="tf_detect" pkg="vision_ssd_detect" type="tf_detect.py" output="screen">
+    <rosparam command="load" file="$(find vision_ssd_detect)/launch/tf_detect.yaml"/>
+  </node>
+
+
+</launch>

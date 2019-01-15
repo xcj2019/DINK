@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<launch>
+  <node name="tf_client" pkg="tf_server" type="tf_client_E.py" output="screen">
+    <rosparam command="load" file="$(find tf_server)/launch/tf_client.yaml"/>
+  </node>
+
+  <include file="$(find usb_cam)/launch/usb_cam-test.launch"/>
+
+</launch>
