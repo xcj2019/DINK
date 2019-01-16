@@ -8,8 +8,9 @@ DINK:Why can't the Chinese develop the infrastructure framework?
 ![DINK](img/dink.jpg)
 
 
+DINK是新一代可以快速应用落地的自动驾驶框架，包含自动驾驶感知，运算，定位，决策，通信各个模块及协同工作
 
-DINK是一个可以快速应用落地的自动驾驶框架，端到端出CAN信号
+端到端出CAN信号
 
 DINK中没有一点Caffe代码，纯Tensorflow
 
@@ -17,7 +18,9 @@ DINK可运行在FPAI-400高算力终端硬件上，车辆线控改装可咨询40
 
 详尽DINK操作使用文档马上到来
 
-DINK is an automatic driving framework that can quickly apply landing, end-to-end CAN signals
+DINK is a new generation of automatic driving framework that can quickly apply landing. It includes automatic driving perception, operation, positioning, decision-making, communication modules and collaborative work.
+
+end-to-end CAN signals 
 
 There is no Caffe code in DINK, pure Tensorflow
 
