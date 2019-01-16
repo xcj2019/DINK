@@ -5,7 +5,7 @@ DINK:为什么中国人不能研发底层框架？
 DINK:Why can't the Chinese develop the infrastructure framework?
 
 
-[![DINK](img/dink.jpg)]
+![DINK](img/dink.jpg)
 
 
 
