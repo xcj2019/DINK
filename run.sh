@@ -1,7 +1,7 @@
 #!/bin/sh
 
 
-SHARED_DIR=/home/autoware/shared_dir
+SHARED_DIR=/home/dink/shared_dir
 HOST_DIR=/home/li/shared_dir
 
 if [ "$1" = "kinetic" ] || [ "$1" = "indigo" ]
