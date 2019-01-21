@@ -22,7 +22,8 @@ DINK是新一代可实践应用落地的自动驾驶框架，包含传感器感�
 
 两步安装
 
-1安装Nvidia Docker
+1. [安装Nvidia Docker](https://github.com/FPAI/DINK/wiki/DINK%E5%AE%89%E8%A3%85)
+
 
 2运行DINK镜像
 
