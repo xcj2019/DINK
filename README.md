@@ -20,7 +20,7 @@ DINK是新一代可实践应用落地的自动驾驶框架，包含传感器感�
 
 2全流程从传感器输入到CAN信号通信
 
-1. [两步安装](https://github.com/FPAI/DINK/wiki/%E5%AE%89%E8%A3%85)
+* [两步安装](https://github.com/FPAI/DINK/wiki/%E5%AE%89%E8%A3%85)
     1. [安装Nvidia Docker](https://github.com/FPAI/DINK/wiki/DINK%E5%AE%89%E8%A3%85)
     1. [运行DINK镜像]()
 
@@ -42,7 +42,7 @@ Two characteristics
 2 The whole process from sensor input to CAN signal communication
 
 
-1. [Two step installation](https://github.com/FPAI/DINK/wiki/Installation)
+*. [Two step installation](https://github.com/FPAI/DINK/wiki/Installation)
     1. [Install Nvidia Docker](https://github.com/FPAI/DINK/wiki/Generic-x86-Docker)
     1. [Running DINK Mirror]()
 
