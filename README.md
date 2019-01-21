@@ -42,8 +42,8 @@ Two characteristics
 2 The whole process from sensor input to CAN signal communication
 
 
-1. [Two step installation](https://github.com/FPAI/DINK/wiki/%E5%AE%89%E8%A3%85)
-    1. [Install Nvidia Docker](https://github.com/FPAI/DINK/wiki/DINK%E5%AE%89%E8%A3%85)
+1. [Two step installation](https://github.com/FPAI/DINK/wiki/Installation)
+    1. [Install Nvidia Docker](https://github.com/FPAI/DINK/wiki/Generic-x86-Docker)
     1. [Running DINK Mirror]()
 
 DINK can run on the hardware of FPAI-400 high-power terminal. Vehicle line control refitting can consult 400-153-0988.
