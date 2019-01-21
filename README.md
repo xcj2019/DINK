@@ -42,7 +42,7 @@ Two characteristics
 2 The whole process from sensor input to CAN signal communication
 
 
-*. [Two step installation](https://github.com/FPAI/DINK/wiki/Installation)
+* . [Two step installation](https://github.com/FPAI/DINK/wiki/Installation)
     1. [Install Nvidia Docker](https://github.com/FPAI/DINK/wiki/Generic-x86-Docker)
     1. [Running DINK Mirror]()
 
