@@ -22,14 +22,7 @@ DINK是新一代可实践应用落地的自动驾驶框架，包含传感器感�
 
 * [两步安装](https://github.com/FPAI/DINK/wiki/%E5%AE%89%E8%A3%85)
     1. [安装Nvidia Docker](https://github.com/FPAI/DINK/wiki/DINK%E5%AE%89%E8%A3%85)
-    1. [运行DINK镜像]()
-
-
-
-
-DINK可运行在FPAI-400高算力终端硬件上，车辆线控改装可咨询400-153-0988
-
-详尽DINK操作使用文档马上到来
+    1. [运行DINK镜像]   详尽DINK操作使用文档马上到来
 
 
 DINK is a new generation of practical application landing autopilot framework, including sensor sensing, positioning, planning, decision-making, execution, communication and collaborative work of each module. Suitable for various scenarios and driving speed of automatic driving. Provide simulation environment for users to simulate debugging.
