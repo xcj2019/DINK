@@ -37,11 +37,7 @@ Two characteristics
 
 * [Two step installation](https://github.com/FPAI/DINK/wiki/Installation)
     1. [Install Nvidia Docker](https://github.com/FPAI/DINK/wiki/Generic-x86-Docker)
-    1. [Running DINK Mirror]()
-
-DINK can run on the hardware of FPAI-400 high-power terminal. Vehicle line control refitting can consult 400-153-0988.
-
-Detailed DINK operation usage documentation is coming soon
+    1. [Running DINK Mirror] coming soon
 
 
 
