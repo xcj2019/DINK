@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<launch>
+  <node name="lane_processor" pkg="vision_segment_enet_detect" type="LaneProcessorNode.py" output="screen">
+    <rosparam command="load" file="$(find vision_segment_enet_detect)/launch/lane_process.yaml"/>
+  </node>
+
+
+  <include file="$(find usb_cam)/launch/usb_cam-test.launch"/>
+
+
+</launch>
