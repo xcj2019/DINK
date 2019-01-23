@@ -20,15 +20,7 @@ DINK是新一代可实践应用落地的自动驾驶框架，包含传感器感�
 
 2全流程从传感器输入到CAN信号通信
 
-# DINK 安装
-
-1. [DINK准备](https://github.com/FPAI/DINK/wiki/DINK-PREPARATION)
-
-2. [安装运行DINK](https://github.com/FPAI/DINK/wiki/INSTALL&RUN-DINK)
-
-
 DINK is a new generation of practical application landing autopilot framework, including sensor sensing, positioning, planning, decision-making, execution, communication and collaborative work of each module. Suitable for various scenarios and driving speed of automatic driving. Provide simulation environment for users to simulate debugging.
-
 
 Two characteristics
 
@@ -36,12 +28,12 @@ Two characteristics
 
 2 The whole process from sensor input to CAN signal communication
 
-# DINK INSTALL
 
-1. [DINK PREPARATION](https://github.com/FPAI/DINK/wiki/DINK-PREPARATION)
+# DINK 安装|DINK INSTALL
 
-2. [INSTALL&RUN DINK](https://github.com/FPAI/DINK/wiki/INSTALL&RUN-DINK)
+1. [DINK准备|DINK PREPARATION](https://github.com/FPAI/DINK/wiki/DINK-PREPARATION)
 
+2. [安装运行DINK|INSTALL&RUN DINK](https://github.com/FPAI/DINK/wiki/INSTALL&RUN-DINK)
 
 
 [![第一太平洋AI](img/fpai.png)](http://fp-ai.com)
