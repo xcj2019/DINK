@@ -38,9 +38,9 @@ Two characteristics
 
 [![第一太平洋AI](img/fpai.png)](http://fp-ai.com)
 
-第一太平洋AI，TF源码贡献者顶尖人工智能团队，底层技术驱动上层应用，垂直领域规模化落地。技术狂热！！！
+第一太平洋AI，TF源码贡献者顶尖人工智能团队，底层技术驱动上层应用，垂直领域规模化落地。技术狂热！！！解决问题！！！
 
-First Pacific AI, the top AI team of TF source contributors, the bottom technology drives the upper application, and the vertical field is landed on a large scale. Technological fanaticism!!!
+First Pacific AI, the top AI team of TF source contributors, the bottom technology drives the upper application, and the vertical field is landed on a large scale. Technological fanaticism!!!Solve problem!!!
 
 
 官网|Official website： http://fp-ai.com
