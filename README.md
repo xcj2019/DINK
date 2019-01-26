@@ -18,29 +18,29 @@ DINK is a new generation of practical application of automatic driving framework
 
 DINK有两大特点：
 
-1.自动驾驶全流程模块协同，从传感器数据采集到CAN信号输出反馈。
+  1.自动驾驶全流程模块协同，从传感器数据采集到CAN信号输出反馈。
 
-2.DINK中人工智能没有一点Caffe代码，纯Tensorflow。
+  2.DINK中人工智能没有一点Caffe代码，纯Tensorflow。
 
 DINK两步安装：
 
-1.安装Nvidia Docker。
+  1.安装Nvidia Docker。
 
-2.下载运行DINK镜像。
+  2.下载运行DINK镜像。
 
 DINK two main features:
 
-1.The whole process module of automatic driving works together, from sensor data collection to CAN signal output feedback.
+  1.The whole process module of automatic driving works together, from sensor data collection to CAN signal output feedback.
 
-2. In DINK, artificial intelligence does not have any Caffe code; it is pure Tensorflow.
+  2. In DINK, artificial intelligence does not have any Caffe code; it is pure Tensorflow.
 
 DINK two-step installation:
 
-1.Install Nvidia Docker.
+  1.Install Nvidia Docker.
 
-2.Download and run DINK mirror.
+  2.Download and run DINK mirror.
 
-![INSTALL DINK](img/launch.gif)
+![DINK](img/dink.jpg)
 
 ***
 
@@ -50,7 +50,7 @@ DINK two-step installation:
 
 2. [安装运行DINK|INSTALL&RUN DINK](https://github.com/FPAI/DINK/wiki/INSTALL&RUN-DINK)
 
-![DINK](img/dink.jpg)
+![INSTALL DINK](img/launch.gif)
 
 ***
 
