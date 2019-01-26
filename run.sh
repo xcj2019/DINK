@@ -1,8 +1,9 @@
 #!/bin/sh
 
-
+XSOCK=/tmp/.X11-unix
+XAUTH=/home/ai8/.Xauthority
 SHARED_DIR=/home/dink/shared_dir
-HOST_DIR=/home/li/shared_dir
+HOST_DIR=/home/ai8/dink_dir
 
 if [ "$1" = "kinetic" ] || [ "$1" = "indigo" ]
 then
@@ -21,10 +22,14 @@ else
 fi
 echo "Shared directory: ${HOST_DIR}"
 
-nvidia-docker run \
+sudo nvidia-docker run \
     -it --rm \
+    --volume=$XSOCK:$XSOCK:rw \
+    --volume=$XAUTH:$XAUTH:rw \
     --volume=$HOST_DIR:$SHARED_DIR:rw \
+    --env="XAUTHORITY=${XAUTH}" \
     --env="DISPLAY=${DISPLAY}" \
+    -u dink \
     --privileged -v /dev/bus/usb:/dev/bus/usb \
     --net=host \
-    dink_g2_1901160012
+registry.cn-hangzhou.aliyuncs.com/dink_190123/dink:0.1.1
