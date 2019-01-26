@@ -5,6 +5,7 @@ XAUTH=/home/ai8/.Xauthority
 SHARED_DIR=/home/dink/shared_dir
 HOST_DIR=/home/ai8/dink_dir
 
+sudo xhost +
 if [ "$1" = "kinetic" ] || [ "$1" = "indigo" ]
 then
     echo "Use $1"
