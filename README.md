@@ -8,26 +8,41 @@ Open Practical Autonomous Driving Framework
 
 # DINK:Why can't the Chinese develop the infrastructure framework?
 
+![DINK](img/profile.jpeg)
 
-![DINK](img/dink.jpg)
+DINK是新一代可实践应用落地的自动驾驶框架，包含传感器驱动，感知定位，识别预测，规划决策，运动控制，CAN通信，各个模块通信及协同工作。适用于自动驾驶的各种场景及行驶速度。提供仿真环境，方便使用者模拟调试。
 
+DINK is a new generation of practical application of automatic driving framework, including sensor drive, sensing and positioning, identification and prediction, planning and decision-making, motion control, CAN communication, each module communication and collaborative work. Suitable for various scenarios and driving speed of automatic driving. Provide simulation environment for users to simulate debugging.
 
-DINK是新一代可实践应用落地的自动驾驶框架，包含传感器感知，定位，规划，决策，执行，各个模块通信及协同工作。适用于自动驾驶的各种场景及行驶速度。提供仿真环境，方便使用者模拟调试。
+***
 
-两大特点
+DINK有两大特点：
 
-1人工智能没有一点Caffe,纯Tensorflow
+1.自动驾驶全流程模块协同，从传感器数据采集到CAN信号输出反馈。
 
-2全流程从传感器输入到CAN信号通信
+2.DINK中人工智能没有一点Caffe代码，纯Tensorflow。
 
-DINK is a new generation of practical application landing autopilot framework, including sensor sensing, positioning, planning, decision-making, execution, communication and collaborative work of each module. Suitable for various scenarios and driving speed of automatic driving. Provide simulation environment for users to simulate debugging.
+DINK两步安装：
 
-Two characteristics
+1.安装Nvidia Docker。
 
-1 AI has no Caffe, pure Tensorflow
+2.下载运行DINK镜像。
 
-2 The whole process from sensor input to CAN signal communication
+DINK two main features:
 
+1.The whole process module of automatic driving works together, from sensor data collection to CAN signal output feedback.
+
+2. In DINK, artificial intelligence does not have any Caffe code; it is pure Tensorflow.
+
+DINK two-step installation:
+
+1.Install Nvidia Docker.
+
+2.Download and run DINK mirror.
+
+![INSTALL DINK](img/launch.gif)
+
+***
 
 # DINK 安装|DINK INSTALL
 
@@ -35,6 +50,9 @@ Two characteristics
 
 2. [安装运行DINK|INSTALL&RUN DINK](https://github.com/FPAI/DINK/wiki/INSTALL&RUN-DINK)
 
+![DINK](img/dink.jpg)
+
+***
 
 [![第一太平洋AI](img/fpai.png)](http://fp-ai.com)
 
