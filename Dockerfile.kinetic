@@ -55,16 +55,12 @@ RUN echo "source /opt/ros/kinetic/setup.bash" >> /home/$USERNAME/.bashrc && \
         # cd to home on login
         echo "cd" >> /home/$USERNAME/.bashrc
 
-# Change user切换为丁克用户进行操作
+# Change user切换为dink用户进行操作
 USER dink
 RUN sudo rosdep init \
         && rosdep update \
         && echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
 
-# YOLO_V2目标检测
-RUN cd && git clone https://github.com/pjreddie/darknet.git
-RUN cd ~/darknet && git checkout 56d69e73aba37283ea7b9726b81afd2f79cd1134
-RUN cd ~/darknet/data && wget https://pjreddie.com/media/files/yolo.weights
 
 #*************************************************************************************************
 # Install DINK下载安装DINK--ros
