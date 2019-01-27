@@ -22,7 +22,7 @@ DINK is a new generation of practical application of automatic driving framework
 
 2.DINK中人工智能没有一点Caffe代码，纯Tensorflow。
   
-3.CUDA算法加速。
+3.CUDA算法加速为高速车辆。
 
 # DINK两步安装：
 
@@ -36,7 +36,7 @@ DINK is a new generation of practical application of automatic driving framework
 
 2. In DINK, artificial intelligence does not have any Caffe code; it is pure Tensorflow.
   
-3. CUDA algorithm acceleration.
+3. CUDA algorithm acceleration for high speed vehicle.
 
 # DINK two-step installation:
 
