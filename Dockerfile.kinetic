@@ -1,5 +1,5 @@
 FROM nvidia/cuda:8.0-devel-ubuntu16.04
-MAINTAINER Yuki Iida <yuki.iida@tier4.jp>
+MAINTAINER Xu chen jie <lihao@fp-ai.com>
 #**********************************************************************************************30分钟左右apt-get update占用时间,但不可删
 # Develop下载库
 RUN apt-get update && apt-get install -y \
