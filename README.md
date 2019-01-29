@@ -6,8 +6,6 @@
 
 ![DINK](img/profile.jpeg)
 
-***
-
 # DINK 安装|DINK INSTALL
 
 1. [DINK准备|DINK PREPARATION](https://github.com/FPAI/DINK/wiki/DINK-PREPARATION)
