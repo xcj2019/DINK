@@ -1,14 +1,22 @@
 # DINK
 
-开放可实践应用自动驾驶框架
+开放可实践应用自动驾驶框架|Open Practical Autonomous Driving Framework
 
-Open Practical Autonomous Driving Framework
-
-# DINK:为什么中国人不能研发底层框架？
-
-# DINK:Why can't the Chinese develop the infrastructure framework?
+# DINK:为什么中国人不能研发底层框架？|Why can't the Chinese develop the infrastructure framework?
 
 ![DINK](img/profile.jpeg)
+
+***
+
+# DINK 安装|DINK INSTALL
+
+1. [DINK准备|DINK PREPARATION](https://github.com/FPAI/DINK/wiki/DINK-PREPARATION)
+
+2. [安装运行DINK|INSTALL&RUN DINK](https://github.com/FPAI/DINK/wiki/INSTALL&RUN-DINK)
+
+![INSTALL DINK](img/launch.gif)
+
+***
 
 DINK是新一代可实践应用落地的自动驾驶框架，包含传感器驱动，感知定位，识别预测，规划决策，运动控制，CAN通信，各个模块通信及协同工作。适用于自动驾驶的各种场景及行驶速度。提供仿真环境，方便使用者模拟调试。
 
